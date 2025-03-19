@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="200px" alt="logo" src="https://imgbed.sanyue.site/file/github/1741863225688_logo.e8dbfa27.png"/></a>
-    <p><em>🗂️开源文件托管解决方案，基于 Cloudflare Pages，支持 Telegram Bot 、 Cloudflare R2 ，S3 API 等多种不同存储渠道。</em></p>
+    <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
+    <p><em>🗂️开源文件托管解决方案，基于 Cloudflare Pages，支持 Telegram Bot 、 Cloudflare R2 ，S3 等多种存储渠道</em></p>
     <div>
         <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/MarSeventh/CloudFlare-ImgBed" alt="License" />
@@ -23,8 +23,7 @@
     </div>
 </div>
 
-----
-# CloudFlare-ImgBed
+---
 
 > [!IMPORTANT]
 >
@@ -1018,6 +1017,7 @@ Web端在登录页面输入你的**认证码**即可登录使用；API端需要�
 40. :hourglass_flowing_sand:搜索功能增强
 41. :white_check_mark:支持粘贴多个链接，支持外链管理
 42. :hourglass_flowing_sand:上传文件记录MD5，支持文件硬链接
+43. :hourglass_flowing_sand:上传页面增加最近上传展示
 
 </details>
 
